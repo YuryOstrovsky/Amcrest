@@ -1,4 +1,4 @@
-mport requests
+import requests
 from requests.auth import HTTPDigestAuth
 from datetime import datetime
 
